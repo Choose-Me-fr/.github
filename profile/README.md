@@ -57,6 +57,7 @@ Voici comment nous contacter :
 - 🌐 [Site officiel](https://choose-me.fr)
 - 📨 contact@choose-me.fr
 - 📷 [Instagram](https://www.instagram.com/chooseme_france/) *(@chooseme_france)*
+- 💬 [Rejoindre notre serveur Discord](https://discord.gg/NM3YFbcGBw) *(discussion rapide et entraide)*
 
 ---
 
